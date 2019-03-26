@@ -42,4 +42,5 @@ basket. The idea would be that this would be in the basket service layer and the
 and not just errors relating to storing the basket item.
 * Config driven values
 * Swagger
+* Component/Integration tests - for production code there would have been some level of integration testing
 
