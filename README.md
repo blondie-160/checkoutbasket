@@ -1,4 +1,4 @@
-# checkoutbasket
+# Checkout Basket
 
 To run the app use command 'dotnet run' in the BasketApp directory.
 The application is available via http://localhost:5001.
@@ -8,17 +8,21 @@ The application is available via http://localhost:5001.
 Rest Web API with the following endpoints:
 
 **GET** api/basket
+
 **POST** api/basket 
 {
  "ProductId" : string,
  "Quantity" : int
 }
+
 **PUT** api/basket
 {
  "ProductId" : string,
  "Quantity" : int
 }
+
 **DELETE** api/basket
+
 
 The PUT and POST become interchangeable in this implementation because of the SaveOrUpdate approach in the store layer.
 
