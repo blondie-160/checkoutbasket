@@ -1,0 +1,9 @@
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\bin\Debug\netcoreapp2.1\BasketApp.Shared.deps.json
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\bin\Debug\netcoreapp2.1\BasketApp.Shared.dll
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\bin\Debug\netcoreapp2.1\BasketApp.Shared.pdb
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\obj\Debug\netcoreapp2.1\BasketApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\obj\Debug\netcoreapp2.1\BasketApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\obj\Debug\netcoreapp2.1\BasketApp.Shared.AssemblyInfo.cs
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\obj\Debug\netcoreapp2.1\BasketApp.Shared.dll
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\obj\Debug\netcoreapp2.1\BasketApp.Shared.pdb
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Shared\obj\Debug\netcoreapp2.1\BasketApp.Shared.csprojAssemblyReference.cache

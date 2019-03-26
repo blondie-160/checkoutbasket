@@ -1,0 +1,12 @@
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\bin\Debug\netcoreapp2.1\BasketApp.Client.deps.json
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\bin\Debug\netcoreapp2.1\BasketApp.Client.dll
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\bin\Debug\netcoreapp2.1\BasketApp.Client.pdb
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\bin\Debug\netcoreapp2.1\BasketApp.Shared.dll
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\bin\Debug\netcoreapp2.1\BasketApp.Shared.pdb
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\obj\Debug\netcoreapp2.1\BasketApp.Client.csprojAssemblyReference.cache
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\obj\Debug\netcoreapp2.1\BasketApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\obj\Debug\netcoreapp2.1\BasketApp.Client.AssemblyInfoInputs.cache
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\obj\Debug\netcoreapp2.1\BasketApp.Client.AssemblyInfo.cs
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\obj\Debug\netcoreapp2.1\BasketApp.Client.csproj.CopyComplete
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\obj\Debug\netcoreapp2.1\BasketApp.Client.dll
+C:\Users\Grace.Walker\source\repos\BasketApp\BasketApp.Client\obj\Debug\netcoreapp2.1\BasketApp.Client.pdb
